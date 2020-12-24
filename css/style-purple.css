@@ -688,7 +688,7 @@ a:hover {
   color: #4e4e4e;
 }
 
-.skill-mf .progress {
+/*.skill-mf .progress {
   background-color: #e3c5ff;
   margin: .5rem 0 1.2rem 0;
   border-radius: 0;
@@ -696,9 +696,9 @@ a:hover {
 }
 
 .skill-mf .progress .progress-bar {
-  height: .7rem;
+  height: .5rem;
   background-color: #8400ff;
-}
+}*/
 
 /*======================================
 //--//-->   SERVICES

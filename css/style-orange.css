@@ -102,25 +102,20 @@ a:hover {
   width: 100%;
   opacity: .7;
 }
-
 .paralax-mf {
   position: relative;
   padding: 8rem 0;
 }
-
 .display-table {
   width: 100%;
   height: 100%;
   display: table;
 }
-
 .table-cell {
   display: table-cell;
   vertical-align: middle;
 }
-
 /*--/ Sections /--*/
-
 .sect-4 {
   padding: 4rem 0;
 }
@@ -134,7 +129,6 @@ a:hover {
 }
 
 /*--/ Title s /--*/
-
 .title-s {
   font-weight: 600;
   color: #1e1e1e;
@@ -142,7 +136,6 @@ a:hover {
 }
 
 /*--/ Title A /--*/
-
 .title-box {
   margin-bottom: 4rem;
 }
